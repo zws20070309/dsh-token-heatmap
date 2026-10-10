@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Token usage heatmap">
+  <rect width="32" height="32" rx="7" fill="#2B3442"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="6" width="4.2" height="4.2" rx="1.1" opacity=".38"/>
+    <rect x="12.4" y="6" width="4.2" height="4.2" rx="1.1" opacity=".62"/>
+    <rect x="18.8" y="6" width="4.2" height="4.2" rx="1.1"/>
+    <rect x="6" y="12.4" width="4.2" height="4.2" rx="1.1" opacity=".62"/>
+    <rect x="12.4" y="12.4" width="4.2" height="4.2" rx="1.1"/>
+    <rect x="18.8" y="12.4" width="4.2" height="4.2" rx="1.1" opacity=".38"/>
+    <rect x="6" y="18.8" width="4.2" height="4.2" rx="1.1"/>
+    <rect x="12.4" y="18.8" width="4.2" height="4.2" rx="1.1" opacity=".38"/>
+    <rect x="18.8" y="18.8" width="4.2" height="4.2" rx="1.1" opacity=".62"/>
+  </g>
+</svg>
