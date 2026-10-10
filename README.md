@@ -35,6 +35,10 @@
 
 ## 安装
 
+```powershell
+git clone https://github.com/zws20070309/dsh-token-heatmap.git
+```
+
 ### 方式 A：插件管理器（推荐）
 
 在 DSH 的「设置 → 内置插件 / 插件市场」里搜索本仓库包名并安装。
